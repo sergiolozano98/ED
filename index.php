@@ -1,6 +1,6 @@
 <?php
 
-echo "HOLA MUNDO";
+echo "HOLA daw 10.22";
 
 
 ?>
